@@ -1,5 +1,5 @@
 {
-  "name": "eslint-stats",
+  "name": "@ianvs/eslint-stats",
   "version": "2.0.0",
   "description": "A package of custom formatters that show aggregated stats of eslint errors",
   "main": "index.js",
